@@ -1,0 +1,10 @@
+# goit-markup-hw-01
+
+Gerekli kurallara uyarak hazırlandı her bir images dosyası pjg olarak indirilip https://squoosh.app/ adlı siteden düzenlendi
+yazım kurallarına dikkat edilip https://validator.w3.org/ den hata olmadığı kontrol edildi bir defa save ve bir defa bitmiş
+hali olmak üzere git e 2 defa kaydedildi umarım hatasız olmuştur şimdiden teşekkürler.
+
+"Ufak düzeltme pretier ile sayfa düzenlendi"
+
+JuniorKabakistan
+Çınar Kabak
