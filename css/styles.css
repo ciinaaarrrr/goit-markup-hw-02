@@ -38,14 +38,11 @@ a {
     font-family: 'roboto', sans-serif;
     color: currentColor;
     text-decoration: none;
-    cursor: pointer;
 }
 
 p {
     font-family: 'roboto', sans-serif;
     font-size: 12px;
-    font-weight: 400;
-
 }
 .our-portfolio img {
     width: 360px;
