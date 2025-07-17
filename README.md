@@ -10,3 +10,8 @@ JuniorKabakistan
 Çınar Kabak
 
 # goit-markup-hw-02
+
+Gözümden kaçan herhangi biryer olmadıysa herhangi bir sorun yaşamadım. kontrol edilmesini bekliyorum şimdiden Teşekkürler.
+
+JuniorKabakistan
+Çınar Kabak

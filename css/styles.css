@@ -1,0 +1,95 @@
+body{
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.48px;
+    color: black;
+    
+}
+
+h1 {
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+}
+
+h2 {
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 0.72px;
+}
+
+h3 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.40px;
+}
+
+Ol, ul {
+    list-style-type: none;
+}
+
+a {
+    font-family: 'roboto', sans-serif;
+    color: currentColor;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p {
+    font-family: 'roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+
+}
+.our-portfolio img {
+    width: 360px;
+    height: 300px;
+}
+
+.our-team img {
+    width: 264px;
+}
+
+.logo-span {
+    color: #4D5AE5;
+}
+
+.logo {
+    line-height: 1.6;
+    letter-spacing: 03px;
+    text-align: left;
+    font-family: "raleway", sans-serif;
+    font-weight: 700;
+}
+
+.menu-nav li a:hover{
+    color: #404bbf;
+}
+
+.nav-item1:focus{
+    color:#404bbf;
+    text-decoration: underline;
+}
+
+.menu-address a:hover{
+    color: #404bbf;
+}
+
+.main-button {
+    color: #fff;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.main-button:hover,
+.main-button:after,
+.main-button:focus{
+    background-color: #404bbf;
+}
+
