@@ -15,3 +15,5 @@ Gözümden kaçan herhangi biryer olmadıysa herhangi bir sorun yaşamadım. kon
 
 JuniorKabakistan
 Çınar Kabak
+
+-- Gerekli düzeltmeler yapıldı background color olması gereken yerler eklendi p etiketinin font size 16px olarak değiştirildi.

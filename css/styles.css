@@ -38,11 +38,12 @@ a {
     font-family: 'roboto', sans-serif;
     color: currentColor;
     text-decoration: none;
+    font-style: normal;
 }
 
 p {
     font-family: 'roboto', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
 }
 .our-portfolio img {
     width: 360px;
@@ -82,6 +83,13 @@ p {
     color: #fff;
     background-color: #4D5AE5;
     cursor: pointer;
+    border: none;
+    width: 150px;
+    height: 50px;
+}
+
+.main-button-span {
+    font-weight: 700;
 }
 
 .main-button:hover,
@@ -90,3 +98,71 @@ p {
     background-color: #404bbf;
 }
 
+.main-header {
+    height: 600px;
+    background-color: #2E2F42;
+}
+
+.main-header h1{
+    text-align: center;
+    color: #fff;
+    padding-top: 10%;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.section-about ul {
+    display: flex;
+}
+
+.section-about ul li {
+    margin: 20px;
+}
+
+.our-team {
+    background-color: #F4F4FD;
+}
+
+.our-team ul {
+    display: flex;
+}
+
+.our-team ul li {
+    margin: 20px;
+}
+
+.our-portfolio ul {
+    display: flex;
+}
+
+.our-portfolio ul li {
+    margin: 20px;
+    border: 1px solid #E7E9FC;
+}
+
+.our-portfolio ul li h3 {
+    padding-left: 8px;
+}
+
+.our-portfolio ul li p {
+    padding-left: 8px;
+}
+
+.our-portfolio h2 {
+    text-align: center;
+}
+
+.footer {
+    background-color: #2E2F42;
+    padding: 10px;
+}
+
+.footer {
+    color: #fff;
+}
